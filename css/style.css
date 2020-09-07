@@ -1,5 +1,9 @@
 body {
-	padding: 50px
+	padding: 50px;
+	max-width: 1024px;
+        margin: 0 auto;
+    	padding: 2vw 2vw 2vw 3.8vw;
+    	background: #fafafa
 }
 
 img {
